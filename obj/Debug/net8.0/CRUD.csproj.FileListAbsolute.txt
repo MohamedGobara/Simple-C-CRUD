@@ -12,3 +12,4 @@ D:\Projects\C#\HelloWorldSolution\CRUD\obj\Debug\net8.0\refint\CRUD.dll
 D:\Projects\C#\HelloWorldSolution\CRUD\obj\Debug\net8.0\CRUD.pdb
 D:\Projects\C#\HelloWorldSolution\CRUD\obj\Debug\net8.0\CRUD.genruntimeconfig.cache
 D:\Projects\C#\HelloWorldSolution\CRUD\obj\Debug\net8.0\ref\CRUD.dll
+D:\Projects\C#\HelloWorldSolution\CRUD\obj\Debug\net8.0\CRUD.sourcelink.json
