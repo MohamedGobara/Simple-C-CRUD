@@ -1,0 +1,14 @@
+D:\Projects\C#\HelloWorldSolution\CRUD\bin\Debug\net8.0\CRUD.exe
+D:\Projects\C#\HelloWorldSolution\CRUD\bin\Debug\net8.0\CRUD.deps.json
+D:\Projects\C#\HelloWorldSolution\CRUD\bin\Debug\net8.0\CRUD.runtimeconfig.json
+D:\Projects\C#\HelloWorldSolution\CRUD\bin\Debug\net8.0\CRUD.dll
+D:\Projects\C#\HelloWorldSolution\CRUD\bin\Debug\net8.0\CRUD.pdb
+D:\Projects\C#\HelloWorldSolution\CRUD\obj\Debug\net8.0\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\HelloWorldSolution\CRUD\obj\Debug\net8.0\CRUD.AssemblyInfoInputs.cache
+D:\Projects\C#\HelloWorldSolution\CRUD\obj\Debug\net8.0\CRUD.AssemblyInfo.cs
+D:\Projects\C#\HelloWorldSolution\CRUD\obj\Debug\net8.0\CRUD.csproj.CoreCompileInputs.cache
+D:\Projects\C#\HelloWorldSolution\CRUD\obj\Debug\net8.0\CRUD.dll
+D:\Projects\C#\HelloWorldSolution\CRUD\obj\Debug\net8.0\refint\CRUD.dll
+D:\Projects\C#\HelloWorldSolution\CRUD\obj\Debug\net8.0\CRUD.pdb
+D:\Projects\C#\HelloWorldSolution\CRUD\obj\Debug\net8.0\CRUD.genruntimeconfig.cache
+D:\Projects\C#\HelloWorldSolution\CRUD\obj\Debug\net8.0\ref\CRUD.dll
